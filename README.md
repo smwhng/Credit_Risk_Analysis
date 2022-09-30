@@ -13,36 +13,36 @@ The results for the random oversampling are as follows: </br>
   - the low risk precision score is 1 and the recall is .58
 
 ### SMOTE Oversampling
-![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/SMOTEaccscore.PNG)
-![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/SMOTEclassrep.PNG)
+![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/SMOTEaccscore.PNG)</br>
+![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/SMOTEclassrep.PNG)</br>
   - The accuracy score is .66
   - The high risk precision score is .01 and the recall is .63
   - the low risk precision score is 1 and the recall is .68
 
 ### Cluster Centroids Undersampling
-![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/undersampaccsc.PNG)
-![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/undersampclassrep.PNG)
+![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/undersampaccsc.PNG)</br>
+![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/undersampclassrep.PNG)</br>
   - The accuracy score is .54
   - The high risk precision score is .01 and the recall is .69
   - the low risk precision score is 1 and the recall is .4
 
 ### SMOTEEN
-![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/smoteenaccscor.PNG)
-![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/smoteenclassrep.PNG)
+![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/smoteenaccscor.PNG)</br>
+![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/smoteenclassrep.PNG)</br>
   - The accuracy score is .65
   - The high risk precision score is .01 and the recall is .72
   - the low risk precision score is 1 and the recall is .57
 
 ### Balanced Random Forest
-![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/brfaccscore.PNG)
-![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/brfclassrep.PNG)
+![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/brfaccscore.PNG)</br>
+![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/brfclassrep.PNG)</br>
   - The accuracy score is .79
   - The high risk precision score is .03 and the recall is .7
   - the low risk precision score is 1 and the recall is .87
 
 ### Easy Ensamble
-![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/adaaccscore.PNG)
-![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/adaclassrep.PNG)
+![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/adaaccscore.PNG)</br>
+![This is an image](https://github.com/smwhng/Credit_Risk_Analysis/blob/main/Images/adaclassrep.PNG)</br>
   - The accuracy score is .93
   - The high risk precision score is .09 and the recall is .92
   - the low risk precision score is 1 and the recall is .94
